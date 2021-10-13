@@ -1,6 +1,6 @@
 # PEKAKA
 - Repo untuk Tugas PKK
-Anggota Kelompok :
+- Anggota Kelompok :
 - Pandu Fajri Pambudi
 - Alvito Sandi Rafael
 - Achmad Nur Chafid
